@@ -1,4 +1,6 @@
-Assignment 4 - mytar
-Name: Amogh Prajapati(amprajap), David Chen (dchen76)
+MyTar - Unix/Linux Archiving tool
+Usage mytar [ctxvS]f tarfile [ path [ ... ] ] 
+options c,t, and x are mutually exclusive 
+f is required in this implementation of mytar
 
-Option 'f' is required for mytar to work
+BUILD: Download Mytar and build with "make" or "make mytar"
